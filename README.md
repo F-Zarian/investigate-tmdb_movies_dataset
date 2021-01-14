@@ -19,5 +19,5 @@ factor to the annual profittability?
 6 - Have the movies become shorter or longet over the years?
 
 # Resources
--  [Imputation (statistics)] https://en.wikipedia.org/wiki/Imputation_(statistics)
+-  [Imputation (statistics)](https://en.wikipedia.org/wiki/Imputation_(statistics)
 - [No-budget film](https://en.wikipedia.org/wiki/No-budget_film)
