@@ -1,4 +1,4 @@
-# Investigate TMDB Movies Dataset
+# Investigate TMDb Movies Dataset
 This project was completed as part of Udacity's Data Analyst Nanodegree Program certification in October 2020.
 
 # Summary
